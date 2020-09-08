@@ -1,3 +1,4 @@
 
 .DS_Store
-.ipynb_checkpoints/kapittel-01-checkpoint.ipynb
+.ipynb_checkpoints/*
+_kladd/*
